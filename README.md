@@ -128,6 +128,19 @@ Swagger UI
 Docker container environment
 All endpoints returned the expected responses.
 
+## Screenshots
+
+### Swagger UI
+This screenshot shows the Swagger UI documentation for the API endpoints.
+
+![Swagger UI](screenshots/swagger-ui.png.jpg)
+
+### Docker Running
+This screenshot shows the application running successfully inside a Docker container.
+
+![Docker Running](screenshots/docker-running.png.jpg)
+
+
 ##  Technologies Used
 Python
 FastAPI
